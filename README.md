@@ -1,7 +1,7 @@
 # Medical Imaging &amp; Big Data
 Data Science | Università di Milano-Bicocca
 
-# Syllabus
+## Syllabus
 Statistical parametric mapping  
 Texture analysis
 Segmentation analysis
