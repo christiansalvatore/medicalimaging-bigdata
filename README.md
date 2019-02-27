@@ -23,3 +23,5 @@ A final score will be assigned to each student individually, considering both th
 During the course (practical sessions) and the implementation of the final projects, we will make use of [Matlab](https://it.mathworks.com/) (The MathWorks). Because of this, students are required to download and install Matlab on their laptops.
 
 Another required software package is Statistical Parametric Mapping, which is freely available for download on the [dedicated webpage](https://www.fil.ion.ucl.ac.uk/spm/) of the Wellcome Centre for Human Neuroimaging.
+
+Details (data, tools etc.) for each practical session can be found in the corresponding folders of this repository on Github (e.g. 1__matlab-and-medicalimaging for the first practical session).
