@@ -2,13 +2,13 @@
 Data Science | Università di Milano-Bicocca
 
 ## Syllabus
-* Statistical parametric mapping  
-* Texture analysis
-* Segmentation analysis
-* Principal component analysis
-* Radiomics/radiogenomics
-* From medical images to disease biomarkers
-* Predictive models
+* Statistical Parametric Mapping  
+* Texture Analysis
+* Segmentation of Medical Images
+* Feature Reduction and Selection Techniques
+* Radiomics / Radiogenomics
+* From Medical Images to Disease Biomarkers
+* Predictive Models
 
 ## Exam modality
 The exam is composed of a practical session and a theoretical session.
