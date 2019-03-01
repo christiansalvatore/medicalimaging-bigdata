@@ -11,9 +11,9 @@ Data Science | Università di Milano-Bicocca
 * Predictive Models
 
 ## Program
-* Lesson #1 (February 28, 2019) <br>
+* Lesson #1 (February 28, 2019 | 15:30-18:30 | U24-C2) <br>
 _Introduction to the topics of the course and focus on medical-imaging techniques_
-* Practical session #1 (March 1, 2019) <br>
+* Practical session #1 (March 1, 2019 | 15:30-17:30 | U14-T024) <br>
 _Introduction to Matlab: working with medical images_ <br>
 Data for this practical session can be downloaded from this [link](https://www.dropbox.com/s/6r8et6x0ps9uc14/data.zip?dl=0).
 
