@@ -25,3 +25,10 @@ During the course (practical sessions) and the implementation of the final proje
 Another required software package is Statistical Parametric Mapping, which is freely available for download on the [dedicated webpage](https://www.fil.ion.ucl.ac.uk/spm/) of the Wellcome Centre for Human Neuroimaging.
 
 Details (data, tools etc.) for each practical session can be found in the corresponding folders of this repository on Github (e.g. _/medicalimaging-bigdata/1__matlab-and-medicalimages/_ for the first practical session).
+
+## Program
+* Lesson #1 (February 28, 2019) <br>
+_Introduction to the topics of the course and focus on medical-imaging techniques_
+* Practical session #1 (March 1, 2019) <br>
+_Introduction to Matlab: working with medical images_ <br>
+Data for this practical session can be downloaded from this [link](https://www.dropbox.com/s/6r8et6x0ps9uc14/data.zip?dl=0).
