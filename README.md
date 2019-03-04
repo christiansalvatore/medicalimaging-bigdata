@@ -10,7 +10,8 @@ Data Science | Università di Milano-Bicocca
 * From Medical Images to Disease Biomarkers
 * Predictive Models
 
-## Program [[overview]](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/overview.pdf)
+## Program
+_[[overview]](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/overview.pdf)_
 * Lesson #1 (February 28, 2019 | 15:30-18:30 | U24-C2) <br>
 _Introduction to the topics of the course and focus on medical-imaging techniques_
 * Practical session #1 (March 1, 2019 | 15:30-17:30 | U14-T024) <br>
