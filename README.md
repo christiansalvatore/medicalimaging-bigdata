@@ -17,6 +17,34 @@ _Introduction to the topics of the course and focus on medical-imaging technique
 _Introduction to Matlab: working with medical images_ <br>
 Data for this practical session can be downloaded from this [link](https://www.dropbox.com/s/6r8et6x0ps9uc14/data.zip?dl=0).
 
+<br>
+
+* Lesson #2 (March 14, 2019 | 15:30-18:30 | U24-C2) <br>
+_tba_
+* Practical session #2 (March 15, 2019 | 15:30-17:30 | U14-T024) <br>
+_tba_
+
+<br>
+
+* Lesson #3 (March 21, 2019 | 15:30-18:30 | U24-C2) <br>
+_tba_
+* Practical session #3 (March 22, 2019 | 15:30-17:30 | U14-T024) <br>
+_tba_
+
+<br>
+
+* Lesson #4 (March 28, 2019 | 15:30-18:30 | U24-C2) <br>
+_tba_
+* Practical session #4 (March 29, 2019 | 15:30-17:30 | U14-T024) <br>
+_tba_
+
+<br>
+
+* Lesson #5 (April 4, 2019 | 15:30-18:30 | U24-C2) <br>
+_tba_
+* Practical session #5 (April 5, 2019 | 15:30-17:30 | U14-T024) <br>
+_tba_
+
 ## Requirements
 During the course (practical sessions) and the implementation of the final projects, we will make use of [Matlab](https://it.mathworks.com/) (The MathWorks). Because of this, students are required to download and install Matlab on their laptops.
 
