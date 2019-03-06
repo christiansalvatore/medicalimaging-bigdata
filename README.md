@@ -63,3 +63,6 @@ The practical session consists in completing and presenting a project. For this 
 The theoretical session consists in an oral examination with questions regarding the theoretical lessons of the course and a follow-up about a scientific paper. The evaluation of this session will be individual.
 
 A final score will be assigned to each student individually, considering both the evaluation of the practical session and the oral examination.
+
+## Comments and suggestions
+Please, leave any comment/suggestion about the course [here](https://docs.google.com/forms/d/e/1FAIpQLSdUlSSaCsfvgodO93Qq2IslxJEoJoA2M8gSOsHp864QyrSh9g/viewform?usp=sf_link).
