@@ -18,7 +18,11 @@ _Introduction to the topics of the course and focus on medical-imaging technique
 * __Practical session #1 (March 1, 2019 | 15:30-17:30 | U14-T024)__ _[[code](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/1__matlab-and-medicalimages/main__practicalsession1.m)]_ <br>
 _Introduction to Matlab: (basic commands; scripts; functions)_ <br>
 _Working with medical images (the dicom format; extracting information from the header file; loading and visualizing images; colormaps; working with ROIs)_ <br>
-Data for this practical session can be downloaded from this [link](https://www.dropbox.com/s/6r8et6x0ps9uc14/data.zip?dl=0).
+Data for this practical session can be downloaded from this [link](https://www.dropbox.com/s/6r8et6x0ps9uc14/data.zip?dl=0). <br><br>
+Some useful sources about medical-image file formats: <br>
+[1] [Larobina et al., 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3948928/pdf/10278_2013_Article_9657.pdf) (a review on medical-image file formats) <br>
+[2] [dicomstandard.org](https://www.dicomstandard.org/) <br>
+[3] [Neuroimaging Informatics Technology Initiative](https://nifti.nimh.nih.gov/)
 
 <br>
 
