@@ -1,4 +1,5 @@
-_Introduction to Matlab: working with medical images_
+_Introduction to Matlab: (basic commands; scripts; functions)_ <br>
+_Working with medical images (the dicom format; extracting information from the header file; loading and visualizing images; colormaps; working with ROIs)_ <br>
 
 Data for this practical session can be downloaded from this <a href="https://www.dropbox.com/s/6r8et6x0ps9uc14/data.zip?dl=0" target="_blank">link</a>.
 
