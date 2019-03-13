@@ -27,9 +27,9 @@ Some useful sources about medical-image file formats: <br>
 <br>
 
 * Lesson #2 (March 14, 2019 | 15:30-18:30 | U24-C2) <br>
-_tba_
+_Segmentation of Medical Images_
 * Practical session #2 (March 15, 2019 | 15:30-17:30 | U14-T024) <br>
-_tba_
+_Working with medical images (the NIfTI format; graphical user interfaces; introduction to segmentation)_
 
 <br>
 
