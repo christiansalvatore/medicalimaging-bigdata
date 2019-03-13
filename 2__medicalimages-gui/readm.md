@@ -1,2 +1,2 @@
-Working with medical images (the NIfTI format; introduction to segmentation) 
-Graphical User Interfaces
+_Working with medical images (the NIfTI format; introduction to segmentation)_ <br>
+_Graphical User Interfaces_
