@@ -1,6 +1,7 @@
 %-------------------------------------------------------------------------
 % Medical Imaging and Big Data
-% Practical session #1
+% Practical session #1 | #dicom #pet #roi #manual-segmentation 
+% christian.salvatore@unimib.it
 % christian.salvatore@ibfm.cnr.it
 %-------------------------------------------------------------------------
 
@@ -54,6 +55,11 @@ img = dicomread('PET-160');
 img = double(img);
 
 % Multiply by the scaling factor
+% IMPORTANT: in this case the intercept is equal to zero
+% because the PET intensity values are always positive
+% (counts related to the uptake of the radiotracers)
+% When working with CT or other modalities, intercept must
+% be considered as well (img = intercept + img*slope)
 img = img*slope;
 
 % Visualize the image
@@ -201,7 +207,7 @@ nvoxel = nnz(img__threshold > 0);
 
 % Calculate the volume, knowing the dimension of a single voxel in mm^3
 volume = nvoxel * dim__voxel;
-disp(['Il volume della lesione è pari a ' num2str(round(volume/1000))...
+disp(['Il volume della lesione Ã¨ pari a ' num2str(round(volume/1000))...
     ' cc.']);
 
 % Apply the threshold to the entire volume
