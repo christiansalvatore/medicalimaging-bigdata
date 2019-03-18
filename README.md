@@ -72,5 +72,8 @@ The theoretical session consists in an oral examination with questions regarding
 
 A final score will be assigned to each student individually, considering both the evaluation of the practical session and the oral examination.
 
+## Projects
+_tbd_
+
 ## Comments and suggestions
 Please, leave any comment/suggestion about the course [here](https://docs.google.com/forms/d/e/1FAIpQLSdUlSSaCsfvgodO93Qq2IslxJEoJoA2M8gSOsHp864QyrSh9g/viewform?usp=sf_link).
