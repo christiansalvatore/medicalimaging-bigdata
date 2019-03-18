@@ -48,9 +48,9 @@ _tba_
 
 <br>
 
-* Lesson #5 (April 4, 2019 | 15:30-18:30 | U24-C2) <br>
+* Lesson #5 (tbd) <br>
 _tba_
-* Practical session #5 (April 5, 2019 | 15:30-17:30 | U14-T024) <br>
+* Practical session #5 (tbd) <br>
 _tba_
 
 ## Requirements
