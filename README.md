@@ -30,7 +30,8 @@ Some useful sources about medical-image file formats: <br>
 * __Lesson #2 (March 14, 2019 | 15:30-18:30 | U24-C2)__ <br>
 _Segmentation of Medical Images_
 * __Practical session #2 (March 15, 2019 | 15:30-17:30 | U14-T024)__ _[[code](https://github.com/christiansalvatore/medicalimaging-bigdata/tree/master/practicalsession__2)]_ <br>
-_Working with medical images (the NIfTI format; introduction to segmentation)_ <br>
+_Working with medical images_ <br>
+_Automatic and semi-automatic segmentation_ <br>
 _Graphical User Interfaces_
 
 <br>
