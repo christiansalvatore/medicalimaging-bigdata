@@ -36,7 +36,7 @@ _Graphical User Interfaces_
 <br>
 
 * __Lesson #3 (March 21, 2019 | 15:30-18:30 | U24-C2)__ <br>
-_Feature Extraction and Selection Techniques_
+_Feature Extraction and Selection Techniques_ <br>
 _Predictive Models_
 * __Practical session #3 (March 22, 2019 | 15:30-17:30 | U14-T024)__ <br>
 _tba_
