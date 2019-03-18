@@ -4,13 +4,14 @@ Data Science | Università di Milano-Bicocca
 [Overview](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/overview.pdf) of the program of the course
 
 ## Syllabus
-* Statistical Parametric Mapping  
-* Texture Analysis
 * Segmentation of Medical Images
-* Feature Reduction and Selection Techniques
-* Radiomics / Radiogenomics
-* From Medical Images to Disease Biomarkers
+* Feature Extraction and Selection Techniques
 * Predictive Models
+* From Medical Images to Disease Biomarkers
+* Texture Analysis
+* Radiomics / Radiogenomics
+* Statistical Parametric Mapping  
+
 
 ## Program
 * __Lesson #1 (February 28, 2019 | 15:30-18:30 | U24-C2)__ <br>
@@ -34,9 +35,10 @@ _Graphical User Interfaces_
 
 <br>
 
-* Lesson #3 (March 21, 2019 | 15:30-18:30 | U24-C2) <br>
-_tba_
-* Practical session #3 (March 22, 2019 | 15:30-17:30 | U14-T024) <br>
+* __Lesson #3 (March 21, 2019 | 15:30-18:30 | U24-C2)__ <br>
+_Feature Extraction and Selection Techniques_
+_Predictive Models_
+* __Practical session #3 (March 22, 2019 | 15:30-17:30 | U14-T024)__ <br>
 _tba_
 
 <br>
