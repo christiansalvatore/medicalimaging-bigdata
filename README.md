@@ -28,7 +28,7 @@ Some useful sources about medical-image file formats: <br>
 
 * __Lesson #2 (March 14, 2019 | 15:30-18:30 | U24-C2)__ <br>
 _Segmentation of Medical Images_
-* __Practical session #2 (March 15, 2019 | 15:30-17:30 | U14-T024)__ _[[code](https://github.com/christiansalvatore/medicalimaging-bigdata/tree/master/2__medicalimages-gui)]_ <br>
+* __Practical session #2 (March 15, 2019 | 15:30-17:30 | U14-T024)__ _[[code](https://github.com/christiansalvatore/medicalimaging-bigdata/tree/master/practicalsession__2)]_ <br>
 _Working with medical images (the NIfTI format; introduction to segmentation)_ <br>
 _Graphical User Interfaces_
 
@@ -58,7 +58,7 @@ During the course (practical sessions) and the implementation of the final proje
 
 Another required software package is Statistical Parametric Mapping, which is freely available for download on the [dedicated webpage](https://www.fil.ion.ucl.ac.uk/spm/) of the Wellcome Centre for Human Neuroimaging.
 
-Details (data, tools etc.) for each practical session can be found in the corresponding folders of this repository on Github (e.g. _/medicalimaging-bigdata/1__matlab-and-medicalimages/_ for the first practical session).
+Details (data, tools etc.) for each practical session can be found in the corresponding folders of this repository on Github (e.g. _/medicalimaging-bigdata/practicalsession__1/_ for the first practical session).
 
 ## Exam modality
 The exam is composed of a practical session and a theoretical session.
