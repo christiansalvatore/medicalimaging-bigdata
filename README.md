@@ -2,6 +2,8 @@
 Data Science | Università di Milano-Bicocca
 <br>
 [Overview](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/overview.pdf) of the program of the course
+<br>
+Contact: christian.salvatore@unimib.it
 
 ## Syllabus
 * Segmentation of Medical Images
@@ -75,7 +77,8 @@ The theoretical session consists in an oral examination with questions regarding
 A final score will be assigned to each student individually, considering both the evaluation of the practical session and the oral examination.
 
 ## Projects
-_tbd_
+1. Implementation of an unsupervised machine-learning model for the automatic classification of tumor aggressiveness <br>
+2. Implementation of a supervised machine-learning model for the automatic classification of tumor aggressiveness 
 
 ## Comments and suggestions
 Please, leave any comment/suggestion about the course [here](https://docs.google.com/forms/d/e/1FAIpQLSdUlSSaCsfvgodO93Qq2IslxJEoJoA2M8gSOsHp864QyrSh9g/viewform?usp=sf_link).
