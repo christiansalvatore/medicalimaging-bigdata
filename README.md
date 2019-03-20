@@ -40,7 +40,9 @@ _Graphical User Interfaces_
 _Feature Extraction and Selection Techniques_ <br>
 _Predictive Models_
 * __Practical session #3 (March 22, 2019 | 15:30-17:30 | U14-T024)__ <br>
-_tba_
+_Working with PET-CT scans of phantoms with homogeneous and heterogeneous/irregular synthetic lesions_ <br>
+_Extracting and selecting morphological features of synthetic lesions_
+_Implementing (unsupervised and supervised) predictive models for automatic lesion classification and discrimination_
 
 <br>
 
