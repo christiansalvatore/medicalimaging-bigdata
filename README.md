@@ -56,7 +56,7 @@ _tba_
 * Lesson #5 (tbd) <br>
 _tba_
 * Practical session #5 (tbd) <br>
-_tba_
+_Project presentation and evaluation_
 
 ## Requirements
 During the course (practical sessions) and the implementation of the final projects, we will make use of [Matlab](https://it.mathworks.com/) (The MathWorks). Because of this, students are required to download and install Matlab on their laptops.
