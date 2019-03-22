@@ -48,7 +48,10 @@ _Implementing (unsupervised and supervised) predictive models for automatic lesi
 <br>
 
 * __Lesson #4 (March 28, 2019 | 15:30-18:30 | U24-C2)__ <br>
-_tba_
+_From Medical Images to Disease Biomarkers_ <br>
+_Texture Analysis_ <br>
+_Radiomics / Radiogenomics_ <br>
+_Statistical Parametric Mapping_
 * __Practical session #4 (March 29, 2019 | 15:30-17:30 | U14-T024)__ <br>
 _tba_
 
