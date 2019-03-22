@@ -37,7 +37,7 @@ _Graphical User Interfaces_
 
 <br>
 
-* __Lesson #3 (March 21, 2019 | 15:30-18:30 | U24-C2)__ <br>
+* __Lesson #3 (March 21, 2019 | 15:30-18:30 | U24-C2)__ [[slides](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/slides/L3-predictivemodels.pdf)] <br>
 _Feature Extraction and Selection Techniques_ <br>
 _Predictive Models_
 * __Practical session #3 (March 22, 2019 | 15:30-17:30 | U14-T024)__ [[data](https://www.dropbox.com/s/66ecrpc68uavdpb/lesions.zip?dl=0)] <br>
