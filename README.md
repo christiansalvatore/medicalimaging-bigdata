@@ -47,16 +47,19 @@ _Implementing (unsupervised and supervised) predictive models for automatic lesi
 
 <br>
 
-* Lesson #4 (March 28, 2019 | 15:30-18:30 | U24-C2) <br>
+* __Lesson #4 (March 28, 2019 | 15:30-18:30 | U24-C2)__ <br>
 _tba_
-* Practical session #4 (March 29, 2019 | 15:30-17:30 | U14-T024) <br>
+* __Practical session #4 (March 29, 2019 | 15:30-17:30 | U14-T024)__ <br>
 _tba_
 
 <br>
 
-* Lesson #5 (tbd) <br>
+* __Practical session #5 (April 4, 2019 | 15:30-18:30 | U24-C2)__ <br>
 _tba_
-* Practical session #5 (tbd) <br>
+
+<br>
+
+* __Final practical session (April 11, 2019 | 15:30-18:30 | U24-C2)__ <br>
 _Project presentation and evaluation_
 
 ## Requirements
