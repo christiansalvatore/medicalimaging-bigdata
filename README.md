@@ -53,7 +53,9 @@ _Texture Analysis_ <br>
 _Radiomics / Radiogenomics_ <br>
 _Statistical Parametric Mapping_
 * __Practical session #4 (March 29, 2019 | 15:30-17:30 | U14-T024)__ <br>
-_tba_
+_Working with PET-CT scans of phantoms with homogeneous and heterogeneous/irregular synthetic lesions_ <br>
+_Extracting and selecting radiomics features of synthetic lesions_ <br>
+_Implementing (unsupervised and supervised) predictive models for automatic lesion classification and discrimination_
 
 <br>
 
