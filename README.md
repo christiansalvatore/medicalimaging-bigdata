@@ -5,6 +5,7 @@ Data Science | Università di Milano-Bicocca
 <br>
 Contact: christian.salvatore@unimib.it
 
+
 ## Syllabus
 * Segmentation of Medical Images
 * Feature Extraction and Selection Techniques
