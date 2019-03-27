@@ -44,7 +44,9 @@ _Predictive Models_
 * __Practical session #3 (March 22, 2019 | 15:30-17:30 | U14-T024)__ [[data](https://www.dropbox.com/s/66ecrpc68uavdpb/lesions.zip?dl=0)] <br>
 _Working with PET-CT scans of phantoms with homogeneous and heterogeneous/irregular synthetic lesions_ <br>
 _Extracting and selecting morphological features of synthetic lesions_ <br>
-_Implementing (unsupervised and supervised) predictive models for automatic lesion classification and discrimination_
+_Implementing (unsupervised and supervised) predictive models for automatic lesion classification and discrimination_ <br><br>
+References: <br>
+[1] [Gallivanone et al., 2018](https://www.hindawi.com/journals/cmmi/2018/5324517/)
 
 <br>
 
