@@ -58,7 +58,10 @@ _Statistical Parametric Mapping_
 * __Practical session #4 (March 29, 2019 | 15:30-17:30 | U14-T024)__ <br>
 _Working with PET-CT scans of phantoms with homogeneous and heterogeneous/irregular synthetic lesions_ <br>
 _Extracting and selecting radiomics features of synthetic lesions_ <br>
-_Implementing (unsupervised and supervised) predictive models for automatic lesion classification and discrimination_
+_Implementing (unsupervised and supervised) predictive models for automatic lesion classification and discrimination_ <br><br>
+Some useful sources about radiomic features: <br>
+[1] [Radiomic features in Matlab](https://it.mathworks.com/matlabcentral/fileexchange/51948-radiomics) <br>
+[1] [Radiomic features in Python](https://pyradiomics.readthedocs.io/en/latest/index.html) (with definition of all features) <br>
 
 <br>
 
