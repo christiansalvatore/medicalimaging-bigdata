@@ -63,7 +63,7 @@ _Implementing (unsupervised and supervised) predictive models for automatic lesi
 <br>
 
 * __Practical session #5 (April 4, 2019 | 15:30-18:30 | U24-C2)__ <br>
-_tba_
+_Implementing (unsupervised and supervised) predictive models for automatic lesion classification and discrimination_
 
 <br>
 
