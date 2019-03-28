@@ -41,7 +41,7 @@ _Graphical User Interfaces_
 * __Lesson #3 (March 21, 2019 | 15:30-18:30 | U24-C2)__ [[slides](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/slides/L3-predictivemodels.pdf)] <br>
 _Feature Extraction and Selection Techniques_ <br>
 _Predictive Models_
-* __Practical session #3 (March 22, 2019 | 15:30-17:30 | U14-T024)__ [[data](https://www.dropbox.com/s/66ecrpc68uavdpb/lesions.zip?dl=0)][[code](https://github.com/christiansalvatore/medicalimaging-bigdata/tree/master/practicalsession__3)] <br>
+* __Practical session #3 (March 22, 2019 | 15:30-17:30 | U14-T024)__ [[code](https://github.com/christiansalvatore/medicalimaging-bigdata/tree/master/practicalsession__3)] [[data](https://www.dropbox.com/s/66ecrpc68uavdpb/lesions.zip?dl=0)] <br>
 _Working with PET-CT scans of phantoms with homogeneous and heterogeneous/irregular synthetic lesions_ <br>
 _Extracting and selecting morphological features of synthetic lesions_ <br>
 _Implementing (unsupervised and supervised) predictive models for automatic lesion classification and discrimination_ <br><br>
