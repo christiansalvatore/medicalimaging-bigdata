@@ -89,7 +89,7 @@ The theoretical session consists in an oral examination with questions regarding
 
 A final score will be assigned to each student individually, considering both the evaluation of the practical session and the oral examination.
 
-## Projects
+## Projects [[overview](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/slides/final-projects.pdf)]
 1. Implementation of an unsupervised machine-learning model for the automatic classification of tumor aggressiveness <br>
 2. Implementation of a supervised machine-learning model for the automatic classification of tumor aggressiveness 
 
