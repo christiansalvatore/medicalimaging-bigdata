@@ -46,8 +46,7 @@ function features = firstorder__features(tumour__volume)
     % >> INSERT CODE HERE
 
     % Energy
-    energy = sum(sum(squared__matrix));
-    features.energy = energy;
+    % >> INSERT CODE HERE
     
     % Entropy
     entropy__vector = frequency.*log2(frequency);
