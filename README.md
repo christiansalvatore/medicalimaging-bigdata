@@ -55,7 +55,7 @@ _From Medical Images to Disease Biomarkers_ <br>
 _Texture Analysis_ <br>
 _Radiomics / Radiogenomics_ <br>
 _Statistical Parametric Mapping_
-* __Practical session #4 (March 29, 2019 | 15:30-17:30 | U14-T024)__ <br>
+* __Practical session #4 (March 29, 2019 | 15:30-17:30 | U14-T024)__ [[code](https://github.com/christiansalvatore/medicalimaging-bigdata/tree/master/practicalsession__4)] <br>
 _Working with PET-CT scans of phantoms with homogeneous and heterogeneous/irregular synthetic lesions_ <br>
 _Extracting and selecting radiomics features of synthetic lesions_ <br>
 _Implementing (unsupervised and supervised) predictive models for automatic lesion classification and discrimination_ <br><br>
