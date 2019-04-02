@@ -91,7 +91,7 @@ A final score will be assigned to each student individually, considering both th
 
 ## Final projects
 [Overview](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/slides/final-projects.pdf)
-<br>
+<br><br>
 Description
 <br>
 Implementation of an (un)supervised machine-learning model for the automatic classification of tumor aggressiveness
