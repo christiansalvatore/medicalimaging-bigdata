@@ -66,6 +66,7 @@ Some useful sources about radiomic features: <br>
 <br>
 
 * __Practical session #5 (April 4, 2019 | 15:30-18:30 | U24-C2)__ <br>
+_Statistical Parametric Mapping (SPM)_
 _Implementing (unsupervised and supervised) predictive models for automatic lesion classification and discrimination_
 
 <br>
