@@ -50,7 +50,7 @@ References: <br>
 
 <br>
 
-* __Lesson #4 (March 28, 2019 | 15:30-18:30 | U24-C2)__ [[slides a](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/slides/L4a-SPM.pdf) | [slides b]()] <br>
+* __Lesson #4 (March 28, 2019 | 15:30-18:30 | U24-C2)__ [[slides a](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/slides/L4a-SPM.pdf) | [slides b](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/slides/L4b-radiomics-radiogenomics.pdf)] <br>
 _From Medical Images to Disease Biomarkers_ <br>
 _Texture Analysis_ <br>
 _Radiomics / Radiogenomics_ <br>
