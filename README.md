@@ -77,7 +77,7 @@ _Project presentation and evaluation_
 ## Requirements | Software | Tools
 During the course (practical sessions) and the implementation of the final projects, we will make use of [Matlab](https://it.mathworks.com/) (The MathWorks). Because of this, students are required to download and install Matlab on their laptops.
 
-Another required software package is Statistical Parametric Mapping, which is freely available for download on the [dedicated webpage](https://www.fil.ion.ucl.ac.uk/spm/) of the Wellcome Centre for Human Neuroimaging.
+Another required software package is Statistical Parametric Mapping, which is freely available for download on the [dedicated webpage](https://www.fil.ion.ucl.ac.uk/spm/) of the Wellcome Centre for Human Neuroimaging. Optional tool: (VBM)[http://www.neuro.uni-jena.de/vbm/].
 
 A useful tool for neuroimage visualization is MRIcron, which is freely available for download on this [webpage](https://www.nitrc.org/projects/mricron).
 
