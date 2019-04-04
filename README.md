@@ -74,10 +74,12 @@ _Implementing (unsupervised and supervised) predictive models for automatic lesi
 * __Final practical session (April 11, 2019 | 15:30-18:30 | U24-C2)__ <br>
 _Project presentation and evaluation_
 
-## Requirements
+## Requirements | Software | Tools
 During the course (practical sessions) and the implementation of the final projects, we will make use of [Matlab](https://it.mathworks.com/) (The MathWorks). Because of this, students are required to download and install Matlab on their laptops.
 
 Another required software package is Statistical Parametric Mapping, which is freely available for download on the [dedicated webpage](https://www.fil.ion.ucl.ac.uk/spm/) of the Wellcome Centre for Human Neuroimaging.
+
+A useful tool for neuroimage visualization is MRIcron, which is freely available for download on this [webpage](https://www.nitrc.org/projects/mricron).
 
 Details (data, tools etc.) for each practical session can be found in the corresponding folders of this [repository](https://github.com/christiansalvatore/medicalimaging-bigdata) on Github (e.g. _/medicalimaging-bigdata/practicalsession__1/_ for the first practical session).
 
