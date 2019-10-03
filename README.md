@@ -19,7 +19,7 @@ Contact: christian.salvatore@unimib.it
 ## Program
 * __Lesson #1 (February 28, 2019 | 15:30-18:30 | U24-C2)__ <br>
 _Introduction to the topics of the course and focus on medical-imaging techniques_
-* __Practical session #1 (March 1, 2019 | 15:30-17:30 | U14-T024)__ [[code](https://github.com/christiansalvatore/medicalimaging-bigdata/tree/master/practicalsession__1)] [[data](https://www.dropbox.com/s/6r8et6x0ps9uc14/data.zip?dl=0)] <br>
+* __Practical session #1 (March 1, 2019 | 15:30-17:30 | U14-T024)__ <[[code](https://github.com/christiansalvatore/medicalimaging-bigdata/tree/master/practicalsession__1)] [[data](https://www.dropbox.com/s/6r8et6x0ps9uc14/data.zip?dl=0)]> <br>
 _Introduction to Matlab: (basic commands; scripts; functions)_ <br>
 _Working with medical images (the dicom format; extracting information from the header file; loading and visualizing images; colormaps; working with ROIs)_ <br><br>
 Some useful sources about medical-image file formats: <br>
