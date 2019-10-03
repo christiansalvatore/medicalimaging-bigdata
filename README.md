@@ -19,7 +19,7 @@ Contact: christian.salvatore@unimib.it
 ## Program
 * __Lesson #1 (February 28, 2019 | 15:30-18:30 | U24-C2)__ <br>
 _Introduction to the topics of the course and focus on medical-imaging techniques_
-* __Practical session #1 (March 1, 2019 | 15:30-17:30 | U14-T024)__ <[[code](https://github.com/christiansalvatore/medicalimaging-bigdata/tree/master/practicalsession__1)] [[data](https://www.dropbox.com/s/6r8et6x0ps9uc14/data.zip?dl=0)]> <br>
+* __Practical session #1 (March 1, 2019 | 15:30-17:30 | U14-T024)__ <!--[[code](https://github.com/christiansalvatore/medicalimaging-bigdata/tree/master/practicalsession__1)] [[data](https://www.dropbox.com/s/6r8et6x0ps9uc14/data.zip?dl=0)]--> <br>
 _Introduction to Matlab: (basic commands; scripts; functions)_ <br>
 _Working with medical images (the dicom format; extracting information from the header file; loading and visualizing images; colormaps; working with ROIs)_ <br><br>
 Some useful sources about medical-image file formats: <br>
@@ -29,19 +29,19 @@ Some useful sources about medical-image file formats: <br>
 
 <br>
 
-* __Lesson #2 (March 14, 2019 | 15:30-18:30 | U24-C2)__ [[slides](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/slides/L2-imagesegmentation.pdf)] <br>
+* __Lesson #2 (March 14, 2019 | 15:30-18:30 | U24-C2)__ <!--[[slides](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/slides/L2-imagesegmentation.pdf)]--> <br>
 _Segmentation of Medical Images_
-* __Practical session #2 (March 15, 2019 | 15:30-17:30 | U14-T024)__ [[code](https://github.com/christiansalvatore/medicalimaging-bigdata/tree/master/practicalsession__2)] <br>
+* __Practical session #2 (March 15, 2019 | 15:30-17:30 | U14-T024)__ <!--[[code](https://github.com/christiansalvatore/medicalimaging-bigdata/tree/master/practicalsession__2)]--> <br>
 _Working with medical images_ <br>
 _Automatic and semi-automatic segmentation_ <br>
 _Graphical User Interfaces_
 
 <br>
 
-* __Lesson #3 (March 21, 2019 | 15:30-18:30 | U24-C2)__ [[slides](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/slides/L3-predictivemodels.pdf)] <br>
+* __Lesson #3 (March 21, 2019 | 15:30-18:30 | U24-C2)__ <!--[[slides](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/slides/L3-predictivemodels.pdf)]--> <br>
 _Feature Extraction and Selection Techniques_ <br>
 _Predictive Models_
-* __Practical session #3 (March 22, 2019 | 15:30-17:30 | U14-T024)__ [[code](https://github.com/christiansalvatore/medicalimaging-bigdata/tree/master/practicalsession__3)] [[data](https://www.dropbox.com/s/66ecrpc68uavdpb/lesions.zip?dl=0)] <br>
+* __Practical session #3 (March 22, 2019 | 15:30-17:30 | U14-T024)__ <!--[[code](https://github.com/christiansalvatore/medicalimaging-bigdata/tree/master/practicalsession__3)] [[data](https://www.dropbox.com/s/66ecrpc68uavdpb/lesions.zip?dl=0)]--> <br>
 _Working with PET-CT scans of phantoms with homogeneous and heterogeneous/irregular synthetic lesions_ <br>
 _Extracting and selecting morphological features of synthetic lesions_ <br>
 _Implementing (unsupervised and supervised) predictive models for automatic lesion classification and discrimination_ <br><br>
@@ -50,12 +50,12 @@ References: <br>
 
 <br>
 
-* __Lesson #4 (March 28, 2019 | 15:30-18:30 | U24-C2)__ [[slides a](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/slides/L4a-SPM.pdf) | [slides b](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/slides/L4b-radiomics-radiogenomics.pdf)] <br>
+* __Lesson #4 (March 28, 2019 | 15:30-18:30 | U24-C2)__ <!--[[slides a](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/slides/L4a-SPM.pdf) | [slides b](https://github.com/christiansalvatore/medicalimaging-bigdata/blob/master/slides/L4b-radiomics-radiogenomics.pdf)]--> <br>
 _From Medical Images to Disease Biomarkers_ <br>
 _Texture Analysis_ <br>
 _Radiomics / Radiogenomics_ <br>
 _Statistical Parametric Mapping_
-* __Practical session #4 (March 29, 2019 | 15:30-17:30 | U14-T024)__ [[code](https://github.com/christiansalvatore/medicalimaging-bigdata/tree/master/practicalsession__4)] <br>
+* __Practical session #4 (March 29, 2019 | 15:30-17:30 | U14-T024)__ <!--[[code](https://github.com/christiansalvatore/medicalimaging-bigdata/tree/master/practicalsession__4)]--> <br>
 _Working with PET-CT scans of phantoms with homogeneous and heterogeneous/irregular synthetic lesions_ <br>
 _Extracting and selecting radiomics features of synthetic lesions_ <br>
 _Implementing (unsupervised and supervised) predictive models for automatic lesion classification and discrimination_ <br><br>
@@ -65,7 +65,7 @@ Some useful sources about radiomic features: <br>
 
 <br>
 
-* __Practical session #5 (April 4, 2019 | 15:30-18:30 | U24-C2)__ [[data](https://www.dropbox.com/s/su9iac10m2xdrer/data__spm.zip?dl=0)] <br> 
+* __Practical session #5 (April 4, 2019 | 15:30-18:30 | U24-C2)__ <!--[[data](https://www.dropbox.com/s/su9iac10m2xdrer/data__spm.zip?dl=0)]--> <br> 
 _Statistical Parametric Mapping (SPM)_ <br>
 _Implementing (unsupervised and supervised) predictive models for automatic lesion classification and discrimination_
 
