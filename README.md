@@ -81,7 +81,7 @@ Another required software package is Statistical Parametric Mapping, which is fr
 
 A useful tool for neuroimage visualization is MRIcron, which is freely available for download on this [webpage](https://www.nitrc.org/projects/mricron).
 
-Details (data, tools etc.) for each practical session can be found in the corresponding folders of this [repository](https://github.com/christiansalvatore/medicalimaging-bigdata) on Github (e.g. _/medicalimaging-bigdata/practicalsession__1/_ for the first practical session).
+Details (data, tools etc.) for each practical session will be available in the corresponding folders of this [repository](https://github.com/christiansalvatore/medicalimaging-bigdata) on Github (e.g. _/medicalimaging-bigdata/practicalsession__1/_ for the first practical session).
 
 ## Exam modality
 The exam is composed of a practical session and a theoretical session.
